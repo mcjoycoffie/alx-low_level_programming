@@ -1,13 +1,12 @@
 #include <stdio.h>
 /**
- *
- *Writing a program that prints a string
- *
- */
+*
+*Writing a program that prints a string
+*
+*/
 int main(void)
 {
-	printf(stderr "and that piece of art is useful" - Dora Korpar, 2015-10-19);
-	printf("\n")
+	printf"and that piece of art is useful\n - Dora Korpar, 2015-10-19\n");
 	
 	return(1);
 
